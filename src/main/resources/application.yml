@@ -1,0 +1,11 @@
+spring:
+# XXX uncomment me to got <EOF>
+#  data:
+#    mongodb:
+#      port: 27017
+  mongodb:
+    hostname: localhost
+    port: 27017
+    embedded:
+      version: 4.0.2
+
